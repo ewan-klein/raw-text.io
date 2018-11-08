@@ -4,7 +4,7 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://raw-text.io',
-    title: 'raw-text',
+    title: 'RAW-TEXT',
     subtitle:
       '',
     copyright: '© All rights reserved.',
@@ -26,11 +26,11 @@ module.exports = {
     author: {
       name: 'Ewan Klein',
       email: '#',
-      // telegram: '#',
+      telegram: '#',
       twitter: 'ewanhklein',
       github: 'ewan-klein',
       rss: '#',
-      // vk: '#',
+      vk: '#',
     },
   },
   plugins: [
