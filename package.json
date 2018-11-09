@@ -11,7 +11,8 @@
     "lint": "./node_modules/.bin/eslint --cache --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write './*.js' 'src/**/*.js' 'src/**/*.jsx'",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "lumen-post": "lumen-post"
   },
   "repository": "git+https://github.com/alxshelepenok/gatsby-starter-lumen.git",
   "keywords": [
@@ -26,6 +27,7 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "gatsby": "^2.0.22",
+    "gatsby-lumen-post-generator": "^1.0.4",
     "gatsby-plugin-catch-links": "^2.0.4",
     "gatsby-plugin-feed": "^2.0.8",
     "gatsby-plugin-google-analytics": "^2.0.6",
