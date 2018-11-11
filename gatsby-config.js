@@ -29,6 +29,7 @@ module.exports = {
       telegram: '#',
       twitter: 'ewanhklein',
       github: 'ewan-klein',
+      linkedin: 'ewanklein',
       rss: '#',
       vk: '#',
     },

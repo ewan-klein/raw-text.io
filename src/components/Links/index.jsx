@@ -12,6 +12,7 @@ class Links extends React.Component {
       vk: author.vk,
       rss: author.rss,
       email: author.email,
+      linkedin: author.linkedin,
     }
 
     return (
@@ -37,15 +38,24 @@ class Links extends React.Component {
           </li>
           <li className="links__list-item">
             <a
+              href={`https://www.linkedin.com/in/${links.linkedin}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="icon-linkedin" />
+            </a>
+          </li>
+{/*          <li className="links__list-item">
+            <a
               href={`https://www.vk.com/${links.vk}`}
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="icon-vkontakte" />
             </a>
-          </li>
+          </li>*/}
         </ul>
-        <ul className="links__list">
+ {/*       <ul className="links__list">
           <li className="links__list-item">
             <a href={`mailto:${links.email}`}>
               <i className="icon-mail" />
@@ -63,7 +73,7 @@ class Links extends React.Component {
               <i className="icon-rss" />
             </a>
           </li>
-        </ul>
+        </ul>*/}
       </div>
     )
   }
