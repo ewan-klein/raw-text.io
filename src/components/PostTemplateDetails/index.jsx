@@ -69,7 +69,8 @@ class PostTemplateDetails extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <br /> <strong>{author.name}</strong> on Twitter
+                <br />
+              <i className="icon-twitter" /> @{author.twitter}
               </a>
             </p>
             {commentsBlock}

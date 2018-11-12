@@ -59,7 +59,7 @@
         @include margin-bottom(2);
         &-text {
             & a {
-                text-decoration: underline;
+                text-decoration: none;
             }
         }
     }
