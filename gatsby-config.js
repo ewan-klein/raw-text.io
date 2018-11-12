@@ -7,7 +7,7 @@ module.exports = {
     title: 'RAW-TEXT',
     subtitle:
       '',
-    copyright: '© All rights reserved.',
+    copyright: '© Ewan Klein',
     disqusShortname: '',
     menu: [
       {
