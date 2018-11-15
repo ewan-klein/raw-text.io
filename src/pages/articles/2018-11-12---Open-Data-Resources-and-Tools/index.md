@@ -1,12 +1,22 @@
 ---
-title: "Open Data Resources and Tools"
-date: "2014-10-16T14:13:00.959Z"
+title: "Open Data Resources & Tools"
+date: "2018-11-15T14:13:00.959Z"
 layout: post
 draft: false
 path: "/posts/open-data-resources-and-tools/"
 category: "Data"
-tags: "open data"
+tags: ["open data"]
 description: "A collection of information about open data, initially developed as a resource for the Smart Data Hack in 2014."
+---
+
+
+<blockquote class="alignLeft">	
+	<p>
+	Note: This document was originally written as a resource for a student hackathon, <a href="http://smartdatahack.org/">the Smart Data Hack</a>, that took place in the University of Edinburgh, early 2014. Since I occasionally reuse this material, and will occasionally update it, I decided to republish it in an easier-to-find location.
+	</p>
+	<cite>Last revised: 2014-10-16</cite>
+</blockquote>
+
 ---
 
 # Open Data: Resources and Tools
