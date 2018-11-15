@@ -2,7 +2,7 @@
 title: "Data and Matter"
 date: "2018-11-12T16:49:49.622Z"
 layout: post
-draft: false
+draft: true
 path: "/posts/data-and-matter/"
 category: "Data"
 tags: 
