@@ -4,10 +4,10 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://raw-text.io',
-    title: 'RAW-TEXT',
+    title: 'raw-text',
     subtitle:
       '',
-    copyright: '© Ewan Klein',
+    copyright: '© Ewan Klein 2018',
     disqusShortname: '',
     menu: [
       {
